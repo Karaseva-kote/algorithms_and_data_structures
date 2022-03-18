@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616012574 source:d:\codeblocks\programm\itmo\sem4\algo1\e\main.cpp
+	<cstdio>
+	<vector>
+
